@@ -1,3 +1,3 @@
 # test_notebooks
 
-#### this repository contain diffrent notebooks for simple tests
+#### this repository contains different notebooks for simple tests
